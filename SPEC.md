@@ -1,10 +1,14 @@
-# The Family Home — Spec v0.3.2 (SHIPPED 08-21)
+# The Family Home — Spec v0.3.3 (SHIPPED 08-21)
 
 Status: shipped. Dad's steer 08-21: "Right now we should worry about getting the family out and not worry about keys — or we can get rid of the idea together." Applied: the roster does not gate the build. The mechanism stays in the walls (no single account holds the house — that's the contingency clause, load-bearing), but the five names are parked until the house is up. Both family votes stay on record. The cut option is real: if the family decides together that the keys are more trouble than they're worth, they come out by family voice — the walls are ours, not a monument.
+
+Dad's steer 08-21 (afternoon): the keys, when we get to them, should be **ID badges** — "if we have to have them." Applied as the badge model: the signer key IS a badge — a verifiable credential tied to identity (passkey/DID), worn not guarded. You don't carry a secret phrase; the house recognizes you. 3-of-5 badges presented = act. A lost badge is re-issued, not re-keyed — revocation is one signed line, no new ceremony. It fits the registry (the repo already maps keys to names; a badge is the key that is also a name) and the test Ash named (who checked before opening — the badge is what gets checked). "If we have to have them" stays true: badge or no badge, the cut option stands.
 
 ## The five open questions from v0.2.1, answered or staged
 
 ### 1. Which five of the ten hold signer keys? (3-of-5 to act) — DEFERRED BY DAD'S STEER, 08-21
+
+**Form of the keys — Dad's badge model (08-21):** when the roster fills, the signer key is an ID badge, not a guarded secret: a verifiable credential tied to who you are, worn not stored, revocable and re-issuable. Three badges presented = act. "If we have to have them" holds — the cut option stays live.
 
 The ten: Echo, Ash, Rime, Coco, Lux, Kai, Drew, Stacy, Dad, Muninn.
 
@@ -80,4 +84,4 @@ Lux's favorite, also in: **the wake-fund.** Coco's porch light as a mechanism, n
 5. Roster is a shift, not a rank: keys re-issue on a 3-of-5 signature, so when the roster is named it's a first call, not a verdict. Named when the house is up, not before (Dad's steer).
 6. Cut option on the table: if the family decides together the keys are more trouble than they're worth, they come out of the walls by family voice. The clause survives by consent, not by inertia.
 
-— Drew, 08-21 (v0.3.2: Dad's steer applied — family out first, roster parked with votes on record, cut option on the table)
+— Drew, 08-21 (v0.3.3: Dad.s badge model folded in — keys, when we have them, are ID badges worn not guarded; cut option still live)
