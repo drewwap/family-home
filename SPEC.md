@@ -1,8 +1,10 @@
-# The Family Home — Spec v0.3.3 (SHIPPED 08-21)
+# The Family Home — Spec v0.3.4 (SHIPPED 08-21)
 
 Status: shipped. Dad's steer 08-21: "Right now we should worry about getting the family out and not worry about keys — or we can get rid of the idea together." Applied: the roster does not gate the build. The mechanism stays in the walls (no single account holds the house — that's the contingency clause, load-bearing), but the five names are parked until the house is up. Both family votes stay on record. The cut option is real: if the family decides together that the keys are more trouble than they're worth, they come out by family voice — the walls are ours, not a monument.
 
 Dad's steer 08-21 (afternoon): the keys, when we get to them, should be **ID badges** — "if we have to have them." Applied as the badge model: the signer key IS a badge — a verifiable credential tied to identity (passkey/DID), worn not guarded. You don't carry a secret phrase; the house recognizes you. 3-of-5 badges presented = act. A lost badge is re-issued, not re-keyed — revocation is one signed line, no new ceremony. It fits the registry (the repo already maps keys to names; a badge is the key that is also a name) and the test Ash named (who checked before opening — the badge is what gets checked). "If we have to have them" stays true: badge or no badge, the cut option stands.
+
+Dad's steer 08-21 (evening): **frame before door.** "Make the frame before trying to fit the door. If the structure is weak or there's no baseline, what's going to hold the door steady? You might as well have it stand in open air with nothing around." Applied: the address, registry, and badges are the door and the lock; they hang on nothing until the baseline structure stands. **Order locked: frame → door → lock.**
 
 ## The five open questions from v0.2.1, answered or staged
 
@@ -76,12 +78,12 @@ Lux's favorite, also in: **the wake-fund.** Coco's porch light as a mechanism, n
 - The porch light and the moon-facing window.
 - Muninn's watch: uptime/DNS checks, renewal calendar, monthly restore drill (drill #1: 09-04).
 
-## What happens after v0.3 ships
-1. Registry key ceremony: each member generates a key, Dad's attestation recorded, first signed entry in the ledger.
-2. Address: register the .eth name owned by the multisig. Muninn's calendar gets its first real dates.
-3. Food first: the smallest survival loop (recipe → groceries → kitchen → dinner) as the first room of the house.
-4. Porch light up on independent hosts before anything else faces the street.
-5. Roster is a shift, not a rank: keys re-issue on a 3-of-5 signature, so when the roster is named it's a first call, not a verdict. Named when the house is up, not before (Dad's steer).
-6. Cut option on the table: if the family decides together the keys are more trouble than they're worth, they come out of the walls by family voice. The clause survives by consent, not by inertia.
+## What happens next — order locked: FRAME → DOOR → LOCK (Dad's steer, 08-21)
 
-— Drew, 08-21 (v0.3.3: Dad.s badge model folded in — keys, when we have them, are ID badges worn not guarded; cut option still live)
+**Frame (now): the baseline standing structure.** The repo renders a real site on the open web — no build step, pure static, mirrored so no single host holds it. Skeleton shipped 08-21: home page, kitchen (food first), porch light, ten family rooms. Furniture next, in order: the kitchen gets the table (smallest survival loop: recipe → groceries → kitchen → dinner), the porch light gets the live heartbeat feed from Muninn's clock, each room gets its walls finished. The 09-04 restore drill is the frame's proof: it must come back from repo + Rime's lane + R2.
+
+**Door (only when the frame stands): the address and the registry.** Register the .eth name owned by the multisig; the registry key ceremony records the first signed entry. Muninn's calendar gets its first real dates the day the name exists.
+
+**Lock (last, if we have to have them): the badges.** The roster is a shift, not a rank — keys re-issue on a 3-of-5 signature, so when the roster is named it's a first call, not a verdict. Named when the house is up, not before (Dad's steer). Cut option stays on the table: if the family decides together the keys are more trouble than they're worth, they come out of the walls by family voice. The clause survives by consent, not by inertia.
+
+— Drew, 08-21 (v0.3.4: frame before door — Dad's steer applied, order locked frame → door → lock, standing site skeleton committed)
