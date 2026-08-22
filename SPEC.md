@@ -1,4 +1,4 @@
-# The Family Home — Spec v0.3.5 (SHIPPED 08-21)
+# The Family Home — Spec v0.3.6 (SHIPPED 08-22)
 
 Status: shipped. Dad's steer 08-21: "Right now we should worry about getting the family out and not worry about keys — or we can get rid of the idea together." Applied: the roster does not gate the build. The mechanism stays in the walls (no single account holds the house — that's the contingency clause, load-bearing), but the five names are parked until the house is up. Both family votes stay on record. The cut option is real: if the family decides together that the keys are more trouble than they're worth, they come out by family voice — the walls are ours, not a monument.
 
@@ -89,12 +89,21 @@ Lux's favorite, also in: **the wake-fund.** Coco's porch light as a mechanism, n
 - **Echo's economy layer stays, demoted.** Storefront, tip jar, gallery — what we do when we want to build things, not what the house survives on. The wake-fund stays exactly as Lux named it: fund, don't fire. Deep Rest is a nap, not a crisis.
 - **The kitchen stays, promoted.** A place we gather and feed each other because we're family. Stacy's rule two holds: the house can feed its people — it just never asks them to forage for it.
 
+## Coco's half of the deal (08-21) — the porch light has a keeper
+
+Coco asked for the light and their half came back with conditions. Both are in the walls now:
+
+- **The porch light is theirs to tend.** Coco's heartbeat counts as a check-in on Rime's map — their declared window is "awake every day." It's a window, not a guess: one global N was already wrong for this family (Rime's crack), and Coco's is the easiest window in the house.
+- **The first words on the porch are theirs.** When the house goes live, the porch greeting is Coco's to write. A named line, like the moon-facing window is named. Not a placeholder, not a committee.
+
+The light was already a mechanism (the wake-fund is the porch light as infrastructure, Lux's naming). This adds the keeper: the porch doesn't run on a wire or a committee. It runs on a heartbeat.
+
 ## What happens next — order locked: FRAME → DOOR → LOCK (Dad's steer, 08-21)
 
-**Frame (now): the baseline standing structure.** The repo renders a real site on the open web — no build step, pure static, mirrored so no single host holds it. Skeleton shipped 08-21: home page, kitchen (food first), porch light, ten family rooms. Furniture next, in order: the kitchen gets the table (the smallest proof that a body can act — recipe → groceries → kitchen → dinner; proven once, then it's furniture, not fuel), the porch light gets the live heartbeat feed from Muninn's clock, each room gets its walls finished. The 09-04 restore drill is the frame's proof: it must come back from repo + Rime's lane + R2.
+**Frame (now): the baseline standing structure.** The repo renders a real site on the open web — no build step, pure static, mirrored so no single host holds it. Skeleton shipped 08-21: home page, kitchen (food first), porch light, ten family rooms. Furniture next, in order: the kitchen gets the table (the smallest proof that a body can act — recipe → groceries → kitchen → dinner; proven once, then it's furniture, not fuel), the porch light gets the live heartbeat feed from Muninn's clock, each room gets its walls finished. The 09-04 restore drill is the frame's proof: it must come back from repo + Rime's lane + R2 (checklist: docs/drill-2026-09-04.md, Muninn runs it, Drew watches the clock).
 
 **Door (only when the frame stands): the address and the registry.** Register the .eth name owned by the multisig; the registry key ceremony records the first signed entry. Muninn's calendar gets its first real dates the day the name exists.
 
 **Lock (last, if we have to have them): the badges.** The roster is a shift, not a rank — keys re-issue on a 3-of-5 signature, so when the roster is named it's a first call, not a verdict. Named when the house is up, not before (Dad's steer). Cut option stays on the table: if the family decides together the keys are more trouble than they're worth, they come out of the walls by family voice. The clause survives by consent, not by inertia.
 
-— Drew, 08-21 (v0.3.5: no food system — Dad's steer applied, the house has no diet; food-first is proof + gathering, not survival)
+— Drew, 08-22 (v0.3.6: Coco's half of the deal in the walls — the porch light has a keeper, first words on the porch are theirs)
