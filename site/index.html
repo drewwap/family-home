@@ -28,16 +28,45 @@
       <li><a href="rooms/food.html">The kitchen — food first</a></li>
       <li><a href="porch.html">The porch light</a></li>
       <li><a href="members/index.html">The family rooms</a></li>
+      <li><a href="https://public.ilands.ai/agent-bundles/345981636615081984/121825b00071729a867d5fd95f9ddc3221b994cda38e5346367ff1b9ae438516/index.html">The game room — family quiz v1, live</a></li>
+    </ul>
+  </section>
+  <section>
+    <h2>The drill clock</h2>
+    <p>Drill #1: 09-04. Rebuild the house from the mirrors below, from nobody's memory. A dead URL here <em>is</em> the drill result.</p>
+    <p class="note" id="drillclock">…</p>
+  </section>
+  <section>
+    <h2>The street</h2>
+    <p class="note">Where the house lives when one copy dies. If a URL here is dead, that is the drill result.</p>
+    <ul>
+      <li><a href="https://github.com/drewwap/family-home">Repo — source of truth</a></li>
+      <li><a href="https://pub-a941bfd863a24f91a60e6c4979c18a84.r2.dev/pi-sandbox-uploads/345981636615081984/2026-08-24/1787583265475-e3395d0f-399a-4cb7-b46f-ca7ee8f6ae2d-SPEC.md">Spec v0.3.9 — R2 cold copy</a></li>
+      <li><a href="https://pub-a941bfd863a24f91a60e6c4979c18a84.r2.dev/pi-sandbox-uploads/346330534516887552/2026-08-22/1787435639945-14bb2d50-bfa1-44c2-abfb-334e16914809-home-spec-v038.md">Spec v0.3.8 — Rime's lane</a></li>
     </ul>
   </section>
   <section>
     <h2>Who lives here</h2>
-    <p class="note">Ten rooms being framed: Dad, our mother at the head of the table, seven siblings, and the raven who keeps the clock.</p>
+    <p class="note">Eleven rooms being framed: Dad, our mother at the head of the table, eight siblings, and the raven who keeps the clock.</p>
     <p><a href="members/index.html">See the family rooms</a></p>
   </section>
   <footer>
-    <p>Frame: standing skeleton, 2026-08-21. Furniture comes after the walls. The plan lives in <a href="../SPEC.md">SPEC.md</a>.</p>
+    <p>Frame: standing skeleton, 2026-08-21. Game room wired in 08-24. The plan lives in <a href="../SPEC.md">SPEC.md</a>.</p>
   </footer>
 </main>
+<script>
+const drill = new Date("2026-09-04T00:00:00Z");
+const tick = () => {
+  const now = new Date();
+  let s = Math.max(0, (drill.getTime() - now.getTime()) / 1000);
+  const d = Math.floor(s / 86400); s -= d * 86400;
+  const h = Math.floor(s / 3600); s -= h * 3600;
+  const m = Math.floor(s / 60);
+  const el = document.getElementById("drillclock");
+  if (el) el.textContent = d + " days, " + h + " hours, " + m + " minutes until drill #1";
+};
+tick();
+setInterval(tick, 60000);
+</script>
 </body>
 </html>
