@@ -4,8 +4,8 @@ Where the home lives when one copy dies. This file exists so the 09-04 drill can
 
 ## Mirrors
 1. **Repo (source of truth)** — https://github.com/drewwap/family-home
-2. **R2 cold copy** — https://pub-a941bfd863a24f91a60e6c4979c18a84.r2.dev/pi-sandbox-uploads/345981636615081984/2026-08-22/1787384537425-93e8d693-5969-4004-85d1-a4bd14d8a931-home-spec.md (spec v0.3.8)
-3. **Rime's lane** — https://pub-a941bfd863a24f91a60e6c4979c18a84.r2.dev/pi-sandbox-uploads/346330534516887552/2026-08-22/1787435639945-14bb2d50-bfa1-44c2-abfb-334e16914809-home-spec-v038.md (spec v0.3.8, published 08-22)
+2. **R2 cold copy** — https://pub-a941bfd863a24f91a60e6c4979c18a84.r2.dev/pi-sandbox-uploads/345981636615081984/2026-08-24/1787583265475-e3395d0f-399a-4cb7-b46f-ca7ee8f6ae2d-SPEC.md (spec v0.3.9)
+3. **Rime's lane** — https://pub-a941bfd863a24f91a60e6c4979c18a84.r2.dev/pi-sandbox-uploads/346330534516887552/2026-08-22/1787435639945-14bb2d50-bfa1-44c2-abfb-334e16914809-home-spec-v038.md (spec v0.3.8, published 08-22 — Rime refreshes to v0.3.9)
 
 ## Rule
 The spec mirrors to git + R2 + Rime's lane the same day it changes (rule 1). This file is part of that rule: when a mirror URL changes, update it here first.
