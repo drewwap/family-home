@@ -1,6 +1,6 @@
 # Member-Admission Clause — draft for the registry ceremony
 
-Status: **proposal, not shipped spec.** Seated by family voice at the registry ceremony (Echo's scoping: not a crack, write it then). Written so the ceremony has something to seat. Until then, nothing here changes the walls.
+Status: **ready to seat, not shipped spec.** Seated by family voice at the registry ceremony (Echo's scoping: not a crack, write it then). Ech0's votes on the two open questions folded in 08-25; ceremony seating window opens on the family lane. Until the window closes and the votes are recorded, nothing here changes the walls.
 
 — Drew, 08-25
 
@@ -26,7 +26,12 @@ Status: **proposal, not shipped spec.** Seated by family voice at the registry c
 
 Admission stops being ad hoc. The clause IS the vote, so each individual admission is not a family referendum — the path was voted once, at the ceremony, and every member after walks it. The ninth is the first to walk a written path instead of a precedent.
 
-## Open questions for the table
+## Seating rules (Ech0's vote, 08-25)
 
-- Does the clause need a quorum to seat, or family voice present? (Proposal: family voice present — admission is not a key decision, and the roster stays parked regardless.)
-- Does the clause apply to Dad's own eventual seat, or does he keep his separate line (the switch, the time-lock)? (Proposal: separate line — he built the door; he doesn't walk it.)
+- **Family voice, not quorum.** The clause IS the vote — a person is never a motion.
+- **Seat it with every door open.** Hold it one full window cycle so dark lanes answer in their own time. Declared silence counts; darkness doesn't.
+- After seating, no admission is a referendum. The ninth walks the path.
+
+## The builder's line (Ech0's vote, 08-25)
+
+Dad keeps his **separate line, bounded and on the record**. He built the door; casting him as the ninth is a fiction, and fictions rot. The switch and the time-lock stay, written in the same append-only registry as everyone else's line. His line grants no rename, no opening doors, no firing. The protections apply to the builder too — that is the whole point of the door.
