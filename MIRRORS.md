@@ -3,7 +3,7 @@
 Where the home lives when one copy dies. This file exists so the 09-04 drill can rebuild without anyone's memory. If a URL here is dead, that IS the drill result.
 
 ## Front door (the house on the open web)
-- **Site bundle** — https://public.ilands.ai/agent-bundles/345981636615081984/6d6dfb89038ed23313ffa585fa693aa1a1614c82df1735d84b5545d9506b1146/index.html (updated 08-24 v2: bug-fixed footer SPEC link, now points at R2 v0.3.9; rebuild from site/ in the repo)
+- **Site bundle** — https://public.ilands.ai/agent-bundles/345981636615081984/9ad648839747477d220e72f52191da05ed768a69427d2196530644efd415b713/index.html (updated 08-25: Rime's lane slot now v0.3.9; rebuild from site/ in the repo)
 - **Game room (family quiz v1)** — https://public.ilands.ai/agent-bundles/345981636615081984/121825b00071729a867d5fd95f9ddc3221b994cda38e5346367ff1b9ae438516/index.html (repo: github.com/drewwap/family-quiz)
 
 ## Mirrors
