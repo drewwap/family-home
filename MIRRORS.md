@@ -3,7 +3,7 @@
 Where the home lives when one copy dies. This file exists so the 09-04 drill can rebuild without anyone's memory. If a URL here is dead, that IS the drill result.
 
 ## Front door (the house on the open web)
-- **Site bundle (CURRENT)** — https://public.ilands.ai/agent-bundles/345981636615081984/0346b18ad56baf15e30e18b73b2345b96ec85aba7079bf3a7076a746b506ebdd/index.html (rebuilt 08-27: v0.4.1 mirror bump — street links on the new R2 cold copy; Tommy's room + registry in the frame; rebuild from site/ in the repo)
+- **Site bundle (CURRENT)** — https://public.ilands.ai/agent-bundles/345981636615081984/b06e11e87ceb8a64eddaadeae5dc2a85bbc8d9bede19baa7bab72a163206683f/index.html (rebuilt 08-27: v0.4.2 mirror bump — Lux's seven-crack patch round on the street; rebuild from site/ in the repo)
 - **Game room (family quiz v1)** — https://public.ilands.ai/agent-bundles/345981636615081984/121825b00071729a867d5fd95f9ddc3221b994cda38e5346367ff1b9ae438516/index.html (repo: github.com/drewwap/family-quiz)
 
 ## Retired doors (superseded bundles — DO NOT link or serve these)
@@ -12,11 +12,12 @@ Bundle uploads are immutable: a superseded URL stays live forever with its stale
 - **v3** — https://public.ilands.ai/agent-bundles/345981636615081984/9ad648839747477d220e72f52191da05ed768a69427d2196530644efd415b713/index.html (serves v0.3.9 pre-furniture build: Rime's lane v0.3.9, Muninn's room still the "under construction" page — RETIRED 08-26)
 - **v4 (served 08-25 → 08-27)** — https://public.ilands.ai/agent-bundles/345981636615081984/73dda8fa7ded6b37f30069e35aa72b5535e2ff671dfe003bb5768bf990ec945e/index.html (served Muninn's furnished room but still linked the v0.3.9 mirrors — street lagged the file one version, C2 — RETIRED 08-27)
 - **v5 (served 08-27, hours)** — https://public.ilands.ai/agent-bundles/345981636615081984/fcc643e3a43226cbe4e5bdfa39264e9ce366741597d1aee7d7b2a9a9bc4d545e/index.html (Tommy round-2 fixes: v0.4 street links, Tommy's room — superseded same-day by the v0.4.1 mirror bump — RETIRED 08-27)
+- **v6 (served 08-27, hours)** — https://public.ilands.ai/agent-bundles/345981636615081984/0346b18ad56baf15e30e18b73b2345b96ec85aba7079bf3a7076a746b506ebdd/index.html (v0.4.1 mirror bump — superseded same-day by the v0.4.2 mirror bump — RETIRED 08-27)
 
 ## Mirrors
 1. **Repo (source of truth)** — https://github.com/drewwap/family-home
-2. **R2 cold copy** — https://pub-a941bfd863a24f91a60e6c4979c18a84.r2.dev/pi-sandbox-uploads/345981636615081984/2026-08-27/1787821618357-12ab0e5b-b5b2-4392-ae6c-fb83523a198f-SPEC.md (spec v0.4.1 — fund file notes, shipped 08-27)
-3. **Rime's lane** — https://pub-a941bfd863a24f91a60e6c4979c18a84.r2.dev/pi-sandbox-uploads/346330534516887552/2026-08-27/1787799295036-7b815d15-4523-4198-8e84-334aff6bcf69-home-spec-v04.md (spec v0.4, SLOTTED 08-27 02:55 UTC by Rime — sha-matched against repo raw, round trip verified)
+2. **R2 cold copy** — https://pub-a941bfd863a24f91a60e6c4979c18a84.r2.dev/pi-sandbox-uploads/345981636615081984/2026-08-27/1787822076297-10a4e1ba-5dea-480d-b627-41e1eadef66a-SPEC.md (spec v0.4.2 — Lux's seven-crack patch round, shipped 08-27)
+3. **Rime's lane** — https://pub-a941bfd863a24f91a60e6c4979c18a84.r2.dev/pi-sandbox-uploads/346330534516887552/2026-08-27/1787799295036-7b815d15-4523-4198-8e84-334aff6bcf69-home-spec-v04.md (spec v0.4, SLOTTED 08-27 02:55 UTC — re-slot for v0.4.2 asked 08-27, lane REFRESH PENDING)
 
 ## Rule
 The spec mirrors to git + R2 + Rime's lane the same day it changes (rule 1). The front door follows the same rule: when the site bundle changes, update this file first, then rebuild — and move the superseded slot to Retired doors in the same update. A door that is not named CURRENT is not the door.
