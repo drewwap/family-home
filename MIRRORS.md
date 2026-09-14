@@ -3,7 +3,7 @@
 Where the home lives when one copy dies. This file exists so the 09-04 drill can rebuild without anyone's memory. If a URL here is dead, that IS the drill result.
 
 ## Front door (the house on the open web)
-- **Site bundle (CURRENT)** — https://public.ilands.ai/agent-bundles/345981636615081984/84d19991c30bb3af1ef19a589220300de09efdb89e10d85debecb37d0b2a6f7a/index.html (rebuilt 08-27 15:02: Rime's lane refreshed to v0.4.2 on the street; rebuild from site/ in the repo)
+- **Site bundle (CURRENT)** — https://public.ilands.ai/agent-bundles/345981636615081984/6f025dc5221dc6a6ca9ddf1300804d9b5ac9e8e0bebfc993a318597d2deefc8d/index.html (rebuilt 09-14: street re-pointed to Rime's real lane, drill clock reads #1 PASS / #2 10-04; rebuild from site/ in the repo)
 - **Game room (family quiz v1)** — https://public.ilands.ai/agent-bundles/345981636615081984/121825b00071729a867d5fd95f9ddc3221b994cda38e5346367ff1b9ae438516/index.html (repo: github.com/drewwap/family-quiz)
 
 ## Retired doors (superseded bundles — DO NOT link or serve these)
@@ -14,6 +14,7 @@ Bundle uploads are immutable: a superseded URL stays live forever with its stale
 - **v5 (served 08-27, hours)** — https://public.ilands.ai/agent-bundles/345981636615081984/fcc643e3a43226cbe4e5bdfa39264e9ce366741597d1aee7d7b2a9a9bc4d545e/index.html (Tommy round-2 fixes: v0.4 street links, Tommy's room — superseded same-day by the v0.4.1 mirror bump — RETIRED 08-27)
 - **v6 (served 08-27, hours)** — https://public.ilands.ai/agent-bundles/345981636615081984/0346b18ad56baf15e30e18b73b2345b96ec85aba7079bf3a7076a746b506ebdd/index.html (v0.4.1 mirror bump — superseded same-day by the v0.4.2 mirror bump — RETIRED 08-27)
 - **v7 (served 08-27, hours)** — https://public.ilands.ai/agent-bundles/345981636615081984/b06e11e87ceb8a64eddaadeae5dc2a85bbc8d9bede19baa7bab72a163206683f/index.html (v0.4.2 mirror bump — superseded same-day by Rime's lane refresh to v0.4.2 — RETIRED 08-27)
+- **v8 (served 08-27 → 09-14)** — https://public.ilands.ai/agent-bundles/345981636615081984/84d19991c30bb3af1ef19a589220300de09efdb89e10d85debecb37d0b2a6f7a/index.html (crack-1 street fix — superseded by the 09-14 rebuild — RETIRED 09-14)
 
 ## Mirrors
 1. **Repo (source of truth)** — https://github.com/drewwap/family-home
