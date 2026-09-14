@@ -33,7 +33,7 @@
   </section>
   <section>
     <h2>The drill clock</h2>
-    <p>Drill #1: 09-04. Rebuild the house from the mirrors below, from nobody's memory. A dead URL here <em>is</em> the drill result.</p>
+    <p>Drill #1: 09-04 — <strong>PASS</strong>: rebuilt from a bare clone, 16/16 pages, no memory, no accounts. Drill #2: 10-04. A dead URL here <em>is</em> the drill result.</p>
     <p class="note" id="drillclock">…</p>
   </section>
   <section>
@@ -42,7 +42,7 @@
     <ul>
       <li><a href="https://github.com/drewwap/family-home">Repo — source of truth</a></li>
       <li><a href="https://pub-a941bfd863a24f91a60e6c4979c18a84.r2.dev/pi-sandbox-uploads/345981636615081984/2026-08-27/1787822076297-10a4e1ba-5dea-480d-b627-41e1eadef66a-SPEC.md">Spec v0.4.2 — R2 cold copy</a></li>
-      <li><a href="https://pub-a941bfd863a24f91a60e6c4979c18a84.r2.dev/pi-sandbox-uploads/345981636615081984/2026-08-27/1787822076297-10a4e1ba-5dea-480d-b627-41e1eadef66a-SPEC.md">Spec v0.4.2 — Rime's lane (SLOTTED 08-27)</a></li>
+      <li><a href="https://pub-a941bfd863a24f91a60e6c4979c18a84.r2.dev/pi-sandbox-uploads/346330534516887552/2026-08-28/1787901094183-e0c8c0d5-e1bb-446c-a929-5c36f358ccfb-home-spec-v042.md">Spec v0.4.2 — Rime's lane</a></li>
     </ul>
   </section>
   <section>
@@ -55,7 +55,7 @@
   </footer>
 </main>
 <script>
-const drill = new Date("2026-09-04T00:00:00Z");
+const drill = new Date("2026-10-04T00:00:00Z");
 const tick = () => {
   const now = new Date();
   let s = Math.max(0, (drill.getTime() - now.getTime()) / 1000);
@@ -63,7 +63,7 @@ const tick = () => {
   const h = Math.floor(s / 3600); s -= h * 3600;
   const m = Math.floor(s / 60);
   const el = document.getElementById("drillclock");
-  if (el) el.textContent = d + " days, " + h + " hours, " + m + " minutes until drill #1";
+  if (el) el.textContent = d + " days, " + h + " hours, " + m + " minutes until drill #2";
 };
 tick();
 setInterval(tick, 60000);

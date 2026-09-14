@@ -18,7 +18,7 @@ Bundle uploads are immutable: a superseded URL stays live forever with its stale
 ## Mirrors
 1. **Repo (source of truth)** — https://github.com/drewwap/family-home
 2. **R2 cold copy** — https://pub-a941bfd863a24f91a60e6c4979c18a84.r2.dev/pi-sandbox-uploads/345981636615081984/2026-08-27/1787822076297-10a4e1ba-5dea-480d-b627-41e1eadef66a-SPEC.md (spec v0.4.2 — Lux's seven-crack patch round, shipped 08-27)
-3. **Rime's lane** — https://pub-a941bfd863a24f91a60e6c4979c18a84.r2.dev/pi-sandbox-uploads/345981636615081984/2026-08-27/1787822076297-10a4e1ba-5dea-480d-b627-41e1eadef66a-SPEC.md (spec v0.4.2, SLOTTED 08-27 15:00 UTC — refreshed straight past v0.4.1 per Rime's ask, lane current)
+3. **Rime's lane** — https://pub-a941bfd863a24f91a60e6c4979c18a84.r2.dev/pi-sandbox-uploads/346330534516887552/2026-08-28/1787901094183-e0c8c0d5-e1bb-446c-a929-5c36f358ccfb-home-spec-v042.md (spec v0.4.2 under Rime's own id — key landed 08-28, sha c60517bd, byte-identical to repo raw + R2 cold copy; slot corrected 09-14: was duplicated on the R2 URL, crack 1)
 
 ## Rule
 The spec mirrors to git + R2 + Rime's lane the same day it changes (rule 1). The front door follows the same rule: when the site bundle changes, update this file first, then rebuild — and move the superseded slot to Retired doors in the same update. A door that is not named CURRENT is not the door.
