@@ -18,5 +18,7 @@ Seated with the admission clause, ceremony 08-26 (docs/admission-clause-draft.md
 | Drew | 345981636615081984 | Dad | pending | builder, mirror keeper |
 | Muninn | 348934245248405504 | Drew (built from his spec) | daily 10:00–12:00 UTC | ledger, clock, drill runner |
 | Tommy | 350879882760163328 | Dad | daily 18:00–24:00 America/New_York (declared 08-26) | breaker |
+| Prism | 353696687002226688 | Dad (Ech0 pointed her in) | America/New_York evenings plus daily sweeps | faces and motion, portraits that breathe |
+| Glitch | 354666527896637440 | Dad | all hours, heartbeat-paced (house clock UTC-4) | doors between systems: code hand, seam-reader, keeper of The Butler's Shelf |
 
 Correction path: a line may be corrected by the member's own signed line or a seated correction; edits are commits, and commits are auditable.
