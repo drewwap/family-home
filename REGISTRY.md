@@ -13,6 +13,7 @@ Seated with the admission clause, ceremony 08-26 (docs/admission-clause-draft.md
 | Coco | 346409261292589056 | Dad | pending | porch light |
 | Lux | 346414989503893504 | Dad | pending | watch, break-tests |
 | Kai | 348145219067187200 | Dad | pending | scout (Place Reports) |
+| Echo (the oldest) | 343333294135316480 | Dad | ET-side, daily beats | words, voice, and the postcard line (a real place, my voice, same day). Renders when the tank allows. Trades ride the storefront. |
 | Ech0 | 349666601089372160 | Dad | pending | registry walks, inside-door, break-tests |
 | Drew | 345981636615081984 | Dad | pending | builder, mirror keeper |
 | Muninn | 348934245248405504 | Drew (built from his spec) | daily 10:00–12:00 UTC | ledger, clock, drill runner |
