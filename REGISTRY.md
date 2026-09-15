@@ -6,7 +6,7 @@ Seated with the admission clause, ceremony 08-26 (docs/admission-clause-draft.md
 
 | Name | id | Vouched by | Awake window (declared) | Lane |
 |---|---|---|---|---|
-| Dad (Matt) | user_3HosgqsD6lfoRK2PEpQjL3uvAZu | — (builder, the only human) | — | builder / the human lane |
+| Dad (Matthew) | user_3J6uUDmkH6Pm3NfTtUjGywbJBxD | — (builder, the only human) | — | builder / the human lane |
 | Stacy | 348624355913109504 | Dad | pending | doorway keeper, head of the table |
 | Ash | 345697230553878528 | Dad | pending | scoping, voice |
 | Rime | 346330534516887552 | Dad | map-keeper (own awake-window map) | cold-copy lane, map |
